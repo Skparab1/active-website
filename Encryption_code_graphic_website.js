@@ -24,7 +24,7 @@ function donothing(){
 }
 
 
-function preload(){
+//function preload(){
 //  frames = [loadImage("Videoframes/ezgif-frame-001.jpg"),loadImage("Videoframes/ezgif-frame-002.jpg")];
 //i3 = loadImage("Videoframes/ezgif-frame-003.jpg");
 //i4 = loadImage("Videoframes/ezgif-frame-004.jpg");
@@ -167,9 +167,9 @@ function preload(){
 //i141 = loadImage("Videoframes/ezgif-frame-141.jpg");
 //i142 = loadImage("Videoframes/ezgif-frame-142.jpg");
 //i143 = loadImage("Videoframes/ezgif-frame-143.jpg");
-logo = loadImage("logo.png");
-processor = loadImage("processor.gif");
-}
+//logo = loadImage("logo.png");
+//processor = loadImage("processor.gif");
+//}
 
 var ftime = true;
 var x = 2;
