@@ -333,294 +333,294 @@ function draw() {
   }
   tint(255, 250); 
   rect(0,4800,2000,3000);
-  if (mousepos >= 4654){
-  if (mousepos < 4754){ 
-  image(frames[0], 300, 4800, 1500, 844);
-  } else if (mousepos >= 4754 && mousepos < 4756){
-  image(frames[1], 300, 4800, 1500, 844);
-  } else if (mousepos >= 4756 && mousepos < 4758){
-  image(i3, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4758 && mousepos < 4760){
-  image(i4, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4760 && mousepos < 4762){
-  image(i5, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4762 && mousepos < 4764){
-  image(i6, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4764 && mousepos < 4766){
-  image(i7, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4766 && mousepos < 4768){
-  image(i8, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4768 && mousepos < 4770){
-  image(i9, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4770 && mousepos < 4772){
-  image(i10, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4772 && mousepos < 4774){
-  image(i11, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4774 && mousepos < 4776){
-  image(i12, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4776 && mousepos < 4778){
-  image(i13, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4778 && mousepos < 4780){
-  image(i14, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4780 && mousepos < 4782){
-  image(i15, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4782 && mousepos < 4784){
-  image(i16, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4784 && mousepos < 4786){
-  image(i17, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4786 && mousepos < 4788){
-  image(i18, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4788 && mousepos < 4790){
-  image(i19, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4790 && mousepos < 4792){
-  image(i20, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4792 && mousepos < 4794){
-  image(i21, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4794 && mousepos < 4796){
-  image(i22, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4796 && mousepos < 4798){
-  image(i23, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4798 && mousepos < 4800){
-  image(i24, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4800 && mousepos < 4802){
-  image(i25, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4802 && mousepos < 4804){
-  image(i26, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4804 && mousepos < 4806){
-  image(i27, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4806 && mousepos < 4808){
-  image(i28, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4808 && mousepos < 4810){
-  image(i29, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4810 && mousepos < 4812){
-  image(i30, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4812 && mousepos < 4814){
-  image(i31, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4814 && mousepos < 4816){
-  image(i32, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4816 && mousepos < 4818){
-  image(i33, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4818 && mousepos < 4820){
-  image(i34, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4820 && mousepos < 4822){
-  image(i35, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4822 && mousepos < 4824){
-  image(i36, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4824 && mousepos < 4826){
-  image(i37, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4826 && mousepos < 4828){
-  image(i38, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4828 && mousepos < 4830){
-  image(i39, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4830 && mousepos < 4832){
-  image(i40, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4832 && mousepos < 4834){
-  image(i41, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4834 && mousepos < 4836){
-  image(i42, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4836 && mousepos < 4838){
-  image(i43, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4838 && mousepos < 4840){
-  image(i44, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4840 && mousepos < 4842){
-  image(i45, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4842 && mousepos < 4844){
-  image(i46, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4844 && mousepos < 4846){
-  image(i47, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4846 && mousepos < 4848){
-  image(i48, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4848 && mousepos < 4850){
-  image(i49, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4850 && mousepos < 4852){
-  image(i50, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4852 && mousepos < 4854){
-  image(i51, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4854 && mousepos < 4856){
-  image(i52, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4856 && mousepos < 4858){
-  image(i53, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4858 && mousepos < 4860){
-  image(i54, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4860 && mousepos < 4862){
-  image(i55, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4862 && mousepos < 4864){
-  image(i56, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4864 && mousepos < 4866){
-  image(i57, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4866 && mousepos < 4868){
-  image(i58, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4868 && mousepos < 4870){
-  image(i59, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4870 && mousepos < 4872){
-  image(i60, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4872 && mousepos < 4874){
-  image(i61, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4874 && mousepos < 4876){
-  image(i62, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4876 && mousepos < 4878){
-  image(i63, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4878 && mousepos < 4880){
-  image(i64, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4880 && mousepos < 4882){
-  image(i65, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4882 && mousepos < 4884){
-  image(i66, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4884 && mousepos < 4886){
-  image(i67, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4886 && mousepos < 4888){
-  image(i68, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4888 && mousepos < 4890){
-  image(i69, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4890 && mousepos < 4892){
-  image(i70, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4892 && mousepos < 4894){
-  image(i71, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4894 && mousepos < 4896){
-  image(i72, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4896 && mousepos < 4898){
-  image(i73, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4898 && mousepos < 4900){
-  image(i74, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4900 && mousepos < 4902){
-  image(i75, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4902 && mousepos < 4904){
-  image(i76, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4904 && mousepos < 4906){
-  image(i77, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4906 && mousepos < 4908){
-  image(i78, 300, 4800, 1500, 844);
-  } else if (mousepos >= 4908 && mousepos < 4910){
-  image(i79, 300, 4800, 1500, 844);
-  } else if (mousepos < 5112){
-  image(i80, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5112 && mousepos < 5114){
-  image(i81, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5114 && mousepos < 5116){
-  image(i82, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5116 && mousepos < 5118){
-  image(i83, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5118 && mousepos < 5120){
-  image(i84, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5120 && mousepos < 5122){
-  image(i85, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5122 && mousepos < 5124){
-  image(i86, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5124 && mousepos < 5126){
-  image(i87, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5126 && mousepos < 5128){
-  image(i88, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5128 && mousepos < 5130){
-  image(i89, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5130 && mousepos < 5132){
-  image(i90, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5132 && mousepos < 5134){
-  image(i91, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5134 && mousepos < 5136){
-  image(i92, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5136 && mousepos < 5138){
-  image(i93, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5138 && mousepos < 5140){
-  image(i94, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5140 && mousepos < 5142){
-  image(i95, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5142 && mousepos < 5144){
-  image(i96, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5144 && mousepos < 5146){
-  image(i97, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5146 && mousepos < 5148){
-  image(i98, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5148 && mousepos < 5150){
-  image(i99, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5150 && mousepos < 5152){
-  image(i100, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5152 && mousepos < 5154){
-  image(i101, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5154 && mousepos < 5156){
-  image(i102, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5156 && mousepos < 5158){
-  image(i103, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5158 && mousepos < 5160){
-  image(i104, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5160 && mousepos < 5162){
-  image(i105, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5162 && mousepos < 5164){
-  image(i106, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5164 && mousepos < 5166){
-  image(i107, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5166 && mousepos < 5168){
-  image(i108, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5168 && mousepos < 5170){
-  image(i109, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5170 && mousepos < 5172){
-  image(i110, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5172 && mousepos < 5174){
-  image(i111, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5174 && mousepos < 5176){
-  image(i112, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5176 && mousepos < 5178){
-  image(i113, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5178 && mousepos < 5180){
-  image(i114, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5180 && mousepos < 5182){
-  image(i115, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5182 && mousepos < 5184){
-  image(i116, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5184 && mousepos < 5186){
-  image(i117, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5186 && mousepos < 5188){
-  image(i118, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5188 && mousepos < 5190){
-  image(i119, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5190 && mousepos < 5192){
-  image(i120, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5192 && mousepos < 5194){
-  image(i121, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5194 && mousepos < 5196){
-  image(i122, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5196 && mousepos < 5198){
-  image(i123, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5198 && mousepos < 5200){
-  image(i124, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5200 && mousepos < 5202){
-  image(i125, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5202 && mousepos < 5204){
-  image(i126, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5204 && mousepos < 5206){
-  image(i127, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5206 && mousepos < 5208){
-  image(i128, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5208 && mousepos < 5210){
-  image(i129, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5210 && mousepos < 5212){
-  image(i130, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5212 && mousepos < 5214){
-  image(i131, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5214 && mousepos < 5216){
-  image(i132, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5216 && mousepos < 5218){
-  image(i133, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5218 && mousepos < 5220){
-  image(i134, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5220 && mousepos < 5222){
-  image(i135, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5222 && mousepos < 5224){
-  image(i136, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5224 && mousepos < 5226){
-  image(i137, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5226 && mousepos < 5228){
-  image(i138, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5228 && mousepos < 5230){
-  image(i139, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5230 && mousepos < 5232){
-  image(i140, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5232 && mousepos < 5234){
-  image(i141, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5234 && mousepos < 5236){
-  image(i142, 300, 4800, 1500, 844);
-  } else if (mousepos >= 5236 && mousepos < 5238){
-  image(i143, 300, 4800, 1500, 844);
-  } }
+  //if (mousepos >= 4654){
+  //if (mousepos < 4754){ 
+  //image(frames[0], 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4754 && mousepos < 4756){
+  //image(frames[1], 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4756 && mousepos < 4758){
+  //image(i3, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4758 && mousepos < 4760){
+  //image(i4, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4760 && mousepos < 4762){
+  //image(i5, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4762 && mousepos < 4764){
+  //image(i6, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4764 && mousepos < 4766){
+  //image(i7, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4766 && mousepos < 4768){
+  //image(i8, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4768 && mousepos < 4770){
+  //image(i9, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4770 && mousepos < 4772){
+  //image(i10, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4772 && mousepos < 4774){
+  //image(i11, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4774 && mousepos < 4776){
+  //image(i12, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4776 && mousepos < 4778){
+  //image(i13, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4778 && mousepos < 4780){
+  //image(i14, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4780 && mousepos < 4782){
+  //image(i15, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4782 && mousepos < 4784){
+  //image(i16, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4784 && mousepos < 4786){
+  //image(i17, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4786 && mousepos < 4788){
+  //image(i18, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4788 && mousepos < 4790){
+  //image(i19, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4790 && mousepos < 4792){
+  //image(i20, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4792 && mousepos < 4794){
+  //image(i21, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4794 && mousepos < 4796){
+  //image(i22, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4796 && mousepos < 4798){
+  //image(i23, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4798 && mousepos < 4800){
+  //image(i24, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4800 && mousepos < 4802){
+  //image(i25, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4802 && mousepos < 4804){
+  //image(i26, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4804 && mousepos < 4806){
+  //image(i27, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4806 && mousepos < 4808){
+  //image(i28, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4808 && mousepos < 4810){
+  //image(i29, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4810 && mousepos < 4812){
+  //image(i30, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4812 && mousepos < 4814){
+  //image(i31, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4814 && mousepos < 4816){
+  //image(i32, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4816 && mousepos < 4818){
+  //image(i33, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4818 && mousepos < 4820){
+  //image(i34, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4820 && mousepos < 4822){
+  //image(i35, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4822 && mousepos < 4824){
+  //image(i36, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4824 && mousepos < 4826){
+  //image(i37, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4826 && mousepos < 4828){
+  //image(i38, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4828 && mousepos < 4830){
+  //image(i39, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4830 && mousepos < 4832){
+  //image(i40, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4832 && mousepos < 4834){
+  //image(i41, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4834 && mousepos < 4836){
+  //image(i42, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4836 && mousepos < 4838){
+  //image(i43, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4838 && mousepos < 4840){
+  //image(i44, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4840 && mousepos < 4842){
+  //image(i45, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4842 && mousepos < 4844){
+  //image(i46, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4844 && mousepos < 4846){
+  //image(i47, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4846 && mousepos < 4848){
+  //image(i48, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4848 && mousepos < 4850){
+  //image(i49, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4850 && mousepos < 4852){
+  //image(i50, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4852 && mousepos < 4854){
+  //image(i51, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4854 && mousepos < 4856){
+  //image(i52, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4856 && mousepos < 4858){
+  //image(i53, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4858 && mousepos < 4860){
+  //image(i54, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4860 && mousepos < 4862){
+  //image(i55, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4862 && mousepos < 4864){
+  //image(i56, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4864 && mousepos < 4866){
+  //image(i57, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4866 && mousepos < 4868){
+  //image(i58, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4868 && mousepos < 4870){
+  //image(i59, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4870 && mousepos < 4872){
+  //image(i60, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4872 && mousepos < 4874){
+  //image(i61, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4874 && mousepos < 4876){
+  //image(i62, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4876 && mousepos < 4878){
+  //image(i63, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4878 && mousepos < 4880){
+  //image(i64, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4880 && mousepos < 4882){
+  //image(i65, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4882 && mousepos < 4884){
+  //image(i66, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4884 && mousepos < 4886){
+  //image(i67, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4886 && mousepos < 4888){
+  //image(i68, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4888 && mousepos < 4890){
+  //image(i69, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4890 && mousepos < 4892){
+  //image(i70, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4892 && mousepos < 4894){
+  //image(i71, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4894 && mousepos < 4896){
+  //image(i72, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4896 && mousepos < 4898){
+  //image(i73, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4898 && mousepos < 4900){
+  //image(i74, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4900 && mousepos < 4902){
+  //image(i75, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4902 && mousepos < 4904){
+  //image(i76, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4904 && mousepos < 4906){
+  //image(i77, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4906 && mousepos < 4908){
+  //image(i78, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 4908 && mousepos < 4910){
+  //image(i79, 300, 4800, 1500, 844);
+  //} else if (mousepos < 5112){
+  //image(i80, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5112 && mousepos < 5114){
+  //image(i81, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5114 && mousepos < 5116){
+  //image(i82, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5116 && mousepos < 5118){
+  //image(i83, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5118 && mousepos < 5120){
+  //image(i84, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5120 && mousepos < 5122){
+  //image(i85, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5122 && mousepos < 5124){
+  //image(i86, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5124 && mousepos < 5126){
+  //image(i87, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5126 && mousepos < 5128){
+  //image(i88, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5128 && mousepos < 5130){
+  //image(i89, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5130 && mousepos < 5132){
+  //image(i90, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5132 && mousepos < 5134){
+  //image(i91, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5134 && mousepos < 5136){
+  //image(i92, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5136 && mousepos < 5138){
+  //image(i93, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5138 && mousepos < 5140){
+  //image(i94, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5140 && mousepos < 5142){
+  //image(i95, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5142 && mousepos < 5144){
+  //image(i96, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5144 && mousepos < 5146){
+  //image(i97, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5146 && mousepos < 5148){
+  //image(i98, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5148 && mousepos < 5150){
+  //image(i99, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5150 && mousepos < 5152){
+  //image(i100, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5152 && mousepos < 5154){
+  //image(i101, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5154 && mousepos < 5156){
+  //image(i102, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5156 && mousepos < 5158){
+  //image(i103, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5158 && mousepos < 5160){
+  //image(i104, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5160 && mousepos < 5162){
+  //image(i105, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5162 && mousepos < 5164){
+  //image(i106, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5164 && mousepos < 5166){
+  //image(i107, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5166 && mousepos < 5168){
+  //image(i108, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5168 && mousepos < 5170){
+  //image(i109, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5170 && mousepos < 5172){
+  //image(i110, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5172 && mousepos < 5174){
+  //image(i111, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5174 && mousepos < 5176){
+  //image(i112, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5176 && mousepos < 5178){
+  //image(i113, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5178 && mousepos < 5180){
+  //image(i114, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5180 && mousepos < 5182){
+  //image(i115, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5182 && mousepos < 5184){
+  //image(i116, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5184 && mousepos < 5186){
+  //image(i117, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5186 && mousepos < 5188){
+  //image(i118, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5188 && mousepos < 5190){
+  //image(i119, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5190 && mousepos < 5192){
+  //image(i120, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5192 && mousepos < 5194){
+  //image(i121, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5194 && mousepos < 5196){
+  //image(i122, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5196 && mousepos < 5198){
+  //image(i123, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5198 && mousepos < 5200){
+  //image(i124, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5200 && mousepos < 5202){
+  //image(i125, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5202 && mousepos < 5204){
+  //image(i126, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5204 && mousepos < 5206){
+  //image(i127, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5206 && mousepos < 5208){
+  //image(i128, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5208 && mousepos < 5210){
+  //image(i129, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5210 && mousepos < 5212){
+  //image(i130, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5212 && mousepos < 5214){
+  //image(i131, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5214 && mousepos < 5216){
+  //image(i132, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5216 && mousepos < 5218){
+  //image(i133, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5218 && mousepos < 5220){
+  //image(i134, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5220 && mousepos < 5222){
+  //image(i135, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5222 && mousepos < 5224){
+  //image(i136, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5224 && mousepos < 5226){
+  //image(i137, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5226 && mousepos < 5228){
+  //image(i138, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5228 && mousepos < 5230){
+  //image(i139, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5230 && mousepos < 5232){
+  //image(i140, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5232 && mousepos < 5234){
+  //image(i141, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5234 && mousepos < 5236){
+  //image(i142, 300, 4800, 1500, 844);
+  //} else if (mousepos >= 5236 && mousepos < 5238){
+  //image(i143, 300, 4800, 1500, 844);
+  //} }
   fill(mousepos - 4500);
   textSize(80);
   text('Data security',50,5050);
@@ -630,7 +630,7 @@ function draw() {
   
   if (mousepos >= 5600){
     tint(255, 250); 
-    image(processor,500, 7000, 1000, 500);
+    //image(processor,500, 7000, 1000, 500);
   }
   tint(255, 250); 
     if (mousepos >= 5630){
@@ -654,7 +654,7 @@ function draw() {
   
   text('______________________',(mousepos/2)-4900,5100);
   if (mousepos >= 5240 && mousepos <= 5400){ // 5300
-    image(logo, (1000 - ((mousepos-5200)*x/2)), mousepos - (mousepos-5400), (mousepos-5200)*x, ((mousepos-5200)*2*x*9/16));
+    //image(logo, (1000 - ((mousepos-5200)*x/2)), mousepos - (mousepos-5400), (mousepos-5200)*x, ((mousepos-5200)*2*x*9/16));
     fill(mousepos-5300,mousepos-5200,mousepos-5100);
     text('Binge worthy processor capability',50,5700 - (mousepos - 5300));
     fill(mousepos-5200,mousepos-5100,mousepos-5300);
@@ -662,7 +662,7 @@ function draw() {
     fill(mousepos-5200,mousepos-5300,mousepos-5400);
     text('Excellent Encryption accuracy',50,6000);
   } else if (mousepos >= 5400 && mousepos <= 5550){
-    image(logo, 700, mousepos + mousepos-5400, 600, ((5400-5200)*2*x*9/16)); // 5700
+    //image(logo, 700, mousepos + mousepos-5400, 600, ((5400-5200)*2*x*9/16)); // 5700
     fill(mousepos-5300,mousepos-5200,mousepos-5100);
     text('Binge worthy processor capability',50,5700 - (mousepos - 5300));
     fill(mousepos-5200,mousepos-5100,mousepos-5300);
@@ -671,19 +671,19 @@ function draw() {
     text('Excellent Encryption accuracy',50,6000);
     
   } else if  (mousepos >= 5550 && mousepos <= 5677){
-    image(logo, (1000 - ((mousepos-5350)*x/2)), mousepos - (mousepos-5700), (mousepos-5350)*x, ((mousepos-5350)*2*x*9/16));
     fill(mousepos-5300,mousepos-5200,mousepos-5100);
     text('Binge worthy processor capability',50,5700 - (mousepos - 5300));
     fill(mousepos-5200,mousepos-5100,mousepos-5300);
     text('Outstanding efficiency and speed',1300,5900);
     fill(mousepos-5200,mousepos-5300,mousepos-5400);
     text('Excellent Encryption accuracy',50,6000);
+    //image(logo, (1000 - ((mousepos-5350)*x/2)), mousepos - (mousepos-5700), (mousepos-5350)*x, ((mousepos-5350)*2*x*9/16));
   } else if (mousepos >= 5677){
     fill(225 - (mousepos - 5677));
     text('Binge worthy processor capability',50,5700 - (mousepos - 5300));
     text('Outstanding efficiency and speed',1300,5900);
     text('Excellent Encryption accuracy',50,6000);
-    image(logo, (1000 - ((mousepos-5350)*x/2)), mousepos - (mousepos-5700), (mousepos-5350)*x, ((mousepos-5350)*2*x*9/16));
+    //image(logo, (1000 - ((mousepos-5350)*x/2)), mousepos - (mousepos-5700), (mousepos-5350)*x, ((mousepos-5350)*2*x*9/16));
   }
 }
 
